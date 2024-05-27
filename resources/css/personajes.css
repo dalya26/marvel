@@ -1,0 +1,8 @@
+.navback{
+    background: fixed;
+    background-color: var(--dark);
+}
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+}
